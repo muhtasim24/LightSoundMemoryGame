@@ -1,6 +1,4 @@
-# *Memory Game*
-
-**Memory Game** is a Light & Sound Memory Game
+# * Light and Sound Memory Game*
 
 
 ## Required Functionality

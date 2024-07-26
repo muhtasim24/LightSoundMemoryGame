@@ -4,8 +4,6 @@
 
 Submitted by: **Muhtasim Mushfiq**
 
-Link to project: https://glitch.com/memorygame
-
 ## Required Functionality
 
 The following **required** functionality is complete:

@@ -4,8 +4,6 @@
 
 Submitted by: **Muhtasim Mushfiq**
 
-Time spent: **13** hours spent in total
-
 Link to project: https://glitch.com/memorygame
 
 ## Required Functionality
@@ -64,11 +62,6 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 - If I had more time to work on this project, I would like to implement a difficulty setting where the user can decide which difficulty they want to play in. At easy level, the clue playback speed is the same speed all throughout the game and it's not fast and they have 5 strikes until game over. At normal level, the clue playback speed will increase a little as each turn progresses and the user will have 3 strikes until game over. Finally, at hard level, the clue playback speed is fast from the start and increases each turn and the user only has 1 chance. If they guess incorrectly, game over. 
-
-
-## Interview Recording URL Link
-
-[My 5-minute Interview Recording](https://buffalo.zoom.us/rec/share/NidzBW4GDpFgDcokCYWtVZGt7il6p7OYkbd8hvJ1Wsnit_DV1PMGYrngt_igDttr.mOMv2ah923P_gmF9)
 
 
 ## License
